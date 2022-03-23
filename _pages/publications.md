@@ -48,8 +48,6 @@ author_profile: true
  [Journal](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.042112){: .btn--research} [arXiv](https://arxiv.org/abs/1603.02553){: .btn--research}
  
 
-## Current email
-
 ## Contributions to Books
  
  - M. Weilenmann, L. Krämer Gabriel, Ph. Faist, R. Renner, Smooth entropy in axiomatic thermodynamics. In "Thermodynamics in the Quantum Regime - Recent Progress and Outlook", eds. F. Binder, L. A. Correa, C. Gogolin, J. Anders and G. Adesso (2019). \\
