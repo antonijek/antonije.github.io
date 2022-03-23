@@ -47,8 +47,10 @@ author_profile: true
  - M. Weilenmann and R. Colbeck, Inability of the entropy vector method to certify nonclassicality in linelike causal structures. Physical Review A 94 (2016). \\
  [Journal](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.94.042112){: .btn--research} [arXiv](https://arxiv.org/abs/1603.02553){: .btn--research}
  
- 
-##  Contributions to Books
+
+## Current email
+
+## Contributions to Books
  
  - M. Weilenmann, L. Krämer Gabriel, Ph. Faist, R. Renner, Smooth entropy in axiomatic thermodynamics. In "Thermodynamics in the Quantum Regime - Recent Progress and Outlook", eds. F. Binder, L. A. Correa, C. Gogolin, J. Anders and G. Adesso (2019). \\
  [Chapter](https://link.springer.com/chapter/10.1007/978-3-319-99046-0_32){: .btn--research} [arXiv](https://arxiv.org/abs/1807.07583){: .btn--research}
