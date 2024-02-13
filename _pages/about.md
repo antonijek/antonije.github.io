@@ -12,7 +12,7 @@ I'm currently a senior post-doctoral researcher holding a Lise Meitner fellowshi
 <button  style="padding: 10px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">Contact Me</button>
 <button onclick="location.href='/contact'" style="padding: 10px; background-color: #4CAF50; color: white; border: 1px solid #4CAF50; border-radius: 5px; cursor: pointer;">Contact Me</button>
 <a>link</a>
-<a href="/terms" style="display: inline-block; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border: 1px solid #4CAF50; border-radius: 5px; cursor: pointer;">Contact Me</a>
+<a href="/terms.md" style="display: inline-block; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border: 1px solid #4CAF50; border-radius: 5px; cursor: pointer;">Contact Me</a>
 <button onclick="location.href='/contact'" style="padding: 10px; background-color: #4CAF50; color: white; border: 1px solid #4CAF50; border-radius: 5px; cursor: pointer; font-size: 16px;">Contact Me</button>
 
 <!-- My CV can be found [here](/files/cv_pjb.pdf). -->
